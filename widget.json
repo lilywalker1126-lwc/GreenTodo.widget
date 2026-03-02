@@ -1,0 +1,10 @@
+{
+  "name": "GreenTodo",
+  "description": "A minimal aesthetic green to-do list widget with progress tracking and deletions.",
+  "author": "Lily Walker",
+  "email": "",
+  "github": "https://github.com/YOUR-USERNAME/GreenTodo.widget",
+  "version": "1.0.0",
+  "requires": "uebersicht",
+  "widget": "GreenTodo.widget"
+}
