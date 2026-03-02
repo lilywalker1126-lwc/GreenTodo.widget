@@ -6,7 +6,8 @@ A minimal aesthetic green to-do list widget for macOS Übersicht.
 
 ## Screenshot
 
-![Screenshot](screenshot.png)
+<img width="531" height="746" alt="screenshot" src="https://github.com/user-attachments/assets/3c7fd0bc-ed52-4999-b05d-743335131063" />
+
 
 ## Installation
 
